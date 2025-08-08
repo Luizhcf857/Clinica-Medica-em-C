@@ -5,11 +5,6 @@ Este projeto foi desenvolvido em **C** com o objetivo de oferecer um sistema sim
 
 ---
 
-## 👨‍💻 Desenvolvedores
-- Luiz Henrique → [GitHub](https://github.com/Luizhcf857)
-
----
-
 ## 📦 Módulo 1: Gestão de Pacientes
 ### 🎯 Objetivo
 Organizar o cadastro e a busca de pacientes, garantindo um registro rápido e seguro das informações essenciais.
